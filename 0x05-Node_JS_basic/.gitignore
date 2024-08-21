@@ -3,3 +3,5 @@ babel.config.js
 package.json
 database.csv
 myenv/
+node_modules/
+package-lock.json
